@@ -4,6 +4,7 @@
 # Todo List
  - Modularization
  - Check it works domain adaptation
+ - Make demo
 
 # Requirments
  - Tensorflow-gpu 2.3.0

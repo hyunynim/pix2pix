@@ -1,0 +1,8 @@
+tensorflow-gpu==2.3.0
+matplotlib
+ipython
+imageio
+networkx
+tensorboard
+graphviz
+pydot

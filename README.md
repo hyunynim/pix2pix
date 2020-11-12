@@ -1,6 +1,10 @@
 # pix2pix
   - Single RGB image depth estimation
-  
+
+# Todo List
+ - Modularization
+ - Check it works domain adaptation
+
 # Requirments
  - Tensorflow-gpu 2.3.0
  - CUDA 10.1

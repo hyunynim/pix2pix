@@ -1,5 +1,5 @@
 # pix2pix
-  - Single RGB image depth estimation
+  - Single RGB image normal estimation
 
 # Todo List
  - Modularization
